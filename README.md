@@ -86,6 +86,3 @@ Alternatively, use the official installer: Visit the Node.js official website. D
 
 Configure environment variables and install relevant dependencies.If you need to use a database, please use the official version of Supabase.
 
-## Learn More
-
-You can also check the help documentation: Download and Building the app（ [https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en](https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en)）to learn more detailed content.
