@@ -1,4 +1,4 @@
-# Welcome to Your Miaoda Project
+# Welcome to AMGOI CAMPUS Project
 
 ## Project Info
 
