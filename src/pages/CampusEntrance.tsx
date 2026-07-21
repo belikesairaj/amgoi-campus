@@ -88,7 +88,7 @@ const CampusEntrance: React.FC = () => {
   };
 
   const handleChatbotClick = () => {
-    window.open('https://campusway-ai.zapier.app', '_blank');
+    window.open('https://amg-ai.zapier.app', '_blank');
   };
 
   return (
