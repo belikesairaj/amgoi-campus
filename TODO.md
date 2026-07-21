@@ -42,7 +42,7 @@
 - All CRUD operations work locally without backend dependency
 - Changes in admin panel are immediately reflected in the campus navigation via custom events
 - Real-time synchronization ensures both pages stay in sync
-- AI Chatbot accessible via prominent floating button at https://campusway-ai.zapier.app
+- AI Chatbot accessible via prominent floating button at https://amg-ai.zapier.app
 - Browser tab title: "CampusWay !!!" (main), "CampusWay !!! - Admin Login", "CampusWay !!! - Admin Dashboard"
 - Mobile camera optimization: FOV 60° (vs 50° desktop), camera position (0, 250, 450) for full wing visibility
 - Chatbot button features: 💬 emoji, "Need Help?" text, subtitle "Campus AI Assistant", pulsing indicator, hover tooltip
